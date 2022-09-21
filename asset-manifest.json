@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sema-client/static/css/main.f90df754.css",
-    "main.js": "/sema-client/static/js/main.6ca3f2c7.js",
-    "static/media/boson.jpg": "/sema-client/static/media/boson.ce415429762ccafddb32.jpg",
-    "index.html": "/sema-client/index.html",
-    "main.f90df754.css.map": "/sema-client/static/css/main.f90df754.css.map",
-    "main.6ca3f2c7.js.map": "/sema-client/static/js/main.6ca3f2c7.js.map"
+    "main.css": "/static/css/main.f90df754.css",
+    "main.js": "/static/js/main.b45fb783.js",
+    "static/media/boson.jpg": "/static/media/boson.ce415429762ccafddb32.jpg",
+    "index.html": "/index.html",
+    "main.f90df754.css.map": "/static/css/main.f90df754.css.map",
+    "main.b45fb783.js.map": "/static/js/main.b45fb783.js.map"
   },
   "entrypoints": [
     "static/css/main.f90df754.css",
-    "static/js/main.6ca3f2c7.js"
+    "static/js/main.b45fb783.js"
   ]
 }
